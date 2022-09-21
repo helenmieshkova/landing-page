@@ -3,10 +3,10 @@ h1 {}
 
 
 h2 {
-
+    color: deeppink;
     text-align: center;
     font-family: Qwitcher Grypen;
-    font-size: 500%;
+    font-size: 300%;
 }
 
 h3 {
@@ -20,13 +20,9 @@ h3 {
     font-size: 200%;
 }
 
-body {}
-
 body {
     background-image: url(https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
 }
-
-.welcome {}
 
 .welcome {
     width: 100%;
@@ -37,9 +33,7 @@ body {
 
 }
 
-.menu__ice-cream {}
-
-.menu__ice-cream {
+#menu {
     color: rgb(216, 24, 107);
     text-align: center;
     margin-left: auto;
@@ -47,8 +41,6 @@ body {
     font-family: Montserrat;
     font-size: 300%;
 }
-
-.ice-cream {}
 
 .ice-cream {
     text-align: center;
@@ -58,15 +50,11 @@ body {
     font-size: 150%;
 }
 
-.socials {}
-
 .socials {
     text-align: center;
     font-size: 120%;
 
 }
-
-.socials h2 {}
 
 .socials h2 {
     text-align: center;
@@ -74,21 +62,27 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#chocolate {}
+#vanilla {
+    width: 200px;
+}
 
 #chocolate {
     width: 200px;
 
 }
 
-.chocolate__price {
-    text-align: center;
-    color: blue;
-}
-
-#mint {}
-
 #mint {
     width: 200px;
 }
+
+#strawberry {
+    width: 200px;
+}
+
+#banana {
+    width: 200px;
+}
+
+#photo {
+    width:200px;
 }
